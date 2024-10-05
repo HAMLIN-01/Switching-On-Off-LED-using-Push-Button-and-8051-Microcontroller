@@ -1,0 +1,4 @@
+"STARTUP.obj",
+"sw.obj" 
+TO "switchinterface" 
+RAMSIZE(256) 
